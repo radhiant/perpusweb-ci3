@@ -13,10 +13,10 @@ js: jquery, ajax
 
 plugin js :
 
--SweatAlert2
--Datepicker
--Datatable
--Chosen
+- SweatAlert2
+- Datepicker
+- Datatable
+- Chosen
 
 features:
 
@@ -63,13 +63,13 @@ Preview :
 
 ![pengembalian-perpusweb](https://user-images.githubusercontent.com/47371845/116381908-8902cc00-a83f-11eb-9f9d-f506f54cc980.PNG)
 
-![lappengadaan](https://user-images.githubusercontent.com/47371845/116381845-78525600-a83f-11eb-9aca-240d122dce71.PNG)
-
-![lappeminjaman-perpusweb](https://user-images.githubusercontent.com/47371845/116381871-7f796400-a83f-11eb-8916-cde5af41cd9c.PNG)
-
 ![pengguna-perpusweb](https://user-images.githubusercontent.com/47371845/116382119-c8c9b380-a83f-11eb-96ba-415dad91df05.PNG)
 
 ![profil-perpusweb](https://user-images.githubusercontent.com/47371845/116382148-cf582b00-a83f-11eb-8be8-de5095a4c6de.PNG)
+
+![lappengadaan](https://user-images.githubusercontent.com/47371845/116381845-78525600-a83f-11eb-9aca-240d122dce71.PNG)
+
+![lappeminjaman-perpusweb](https://user-images.githubusercontent.com/47371845/116381871-7f796400-a83f-11eb-8916-cde5af41cd9c.PNG)
 
 ![printlappengadaan-perpusweb](https://user-images.githubusercontent.com/47371845/116382173-d5e6a280-a83f-11eb-9641-29622f9f0cc4.PNG)
 
